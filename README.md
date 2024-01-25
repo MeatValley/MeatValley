@@ -1,26 +1,13 @@
-### Hi there 👋
+### Hello there 🦾🦾👾🦾🦾:
 
-## 🚀 Experience
+- Lieutenant at brazilian army 🥇
+- Former computer engineer at Military Engineering Institue - IME 🚡 🇧🇷
 
-### Company Name
-- Position: Your Position
-- Duration: Month/Year - Month/Year
-- Description: Brief description of your role and accomplishments.
 
-### Another Company
-- Position: Another Position
-- Duration: Month/Year - Month/Year
-- Description: Brief description of your role and accomplishments.
 
-## 🛠️ Technologies
 
-Here are some technologies I work with:
-
-![Language1](images/language1.png) ![Language2](images/language2.png) ![Language3](images/language3.png)
-
-- **Language1**: Description of your proficiency or experience.
-- **Language2**: Description of your proficiency or experience.
-- **Language3**: Description of your proficiency or experience.
+## 🛠️ Current Learning
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 
 ## 🎨 My Toolbox
 
